@@ -7,7 +7,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 @Ignore
-public class Person1Test {
+public class PersonTest1 {
     private Person person;
 
     @Before

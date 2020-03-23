@@ -4,7 +4,7 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
-@Suite.SuiteClasses({Person1Test.class, Person2Test.class})
+@Suite.SuiteClasses({PersonTest1.class, PersonTest2.class})
 public class AllPersonsTest {
     /*
     Tests with the following files are visible: Test*, *Test, *TestCase.

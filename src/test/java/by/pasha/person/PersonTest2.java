@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class Person2Test {
+public class PersonTest2 {
     private Person person;
 
     @Before
